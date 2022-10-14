@@ -1,0 +1,299 @@
+{
+    "__type__": "Deck",
+    "children": [
+        {
+            "__type__": "Deck",
+            "children": [],
+            "crowdanki_uuid": "4f56171e-4b9a-11ed-b408-311ebffb6d2f",
+            "deck_config_uuid": "4f561836-4b9a-11ed-b408-311ebffb6d2f",
+            "desc": "",
+            "dyn": 0,
+            "extendNew": 10,
+            "extendRev": 50,
+            "media_files": [],
+            "name": "募集のお知らせ",
+            "newLimit": null,
+            "newLimitToday": null,
+            "notes": [
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "第20回さくら川花火大会開催のご案内",
+                        "おとうと、20回さくらはなびたいかいかいさいのごあんない"
+                    ],
+                    "guid": "%{<dI",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "募集",
+                        "ぼしゅう(音)<br>recruitment "
+                    ],
+                    "guid": "D~%IM",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "1名",
+                        "めい(音)<br>counter for people, seating, reservations "
+                    ],
+                    "guid": "xbhVU",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "勤務先",
+                        "きん、む、さき(音)<br>place of employment "
+                    ],
+                    "guid": "_u^}U",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "株",
+                        "かぶ(訓)、Stock"
+                    ],
+                    "guid": "Ra@2D",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "会社",
+                        "かい(がい)、しゃ(音)<br>Business "
+                    ],
+                    "guid": "$aGy6",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "期間",
+                        "き、かん(音)<br>period"
+                    ],
+                    "guid": "g}((P",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "夏季休暇",
+                        "か、き、きゅう、か(音)<br>(夏休みと言う意味です) <br>summer vacation "
+                    ],
+                    "guid": "?Y#_T",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "勤務",
+                        "きん、む(音)<br>work duty"
+                    ],
+                    "guid": "/?$k",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "実習",
+                        "じっしゅう(音)<br>training (job)"
+                    ],
+                    "guid": ">!m:9",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "内容",
+                        "ないよう(音)。contents, details"
+                    ],
+                    "guid": "&HPx3",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "商品",
+                        "しょう、ひん、products"
+                    ],
+                    "guid": "iplaF",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "基礎",
+                        "き、そ(音)<br>foundation, basis"
+                    ],
+                    "guid": "ciLnP",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "知識",
+                        "ち、しき(音)<br>knowledge "
+                    ],
+                    "guid": "C]H,",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                },
+                {
+                    "__type__": "Note",
+                    "fields": [
+                        "学ぶ",
+                        "まな、ぶ(訓)。study"
+                    ],
+                    "guid": "|bplQ",
+                    "note_model_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+                    "tags": []
+                }
+            ],
+            "reviewLimit": null,
+            "reviewLimitToday": null
+        }
+    ],
+    "crowdanki_uuid": "4f55fa22-4b9a-11ed-b408-311ebffb6d2f",
+    "deck_config_uuid": "4f561836-4b9a-11ed-b408-311ebffb6d2f",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4f561836-4b9a-11ed-b408-311ebffb6d2f",
+            "dyn": false,
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 100
+            },
+            "reviewOrder": 0,
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "name": "N3スピードマスター読解",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4f56301e-4b9a-11ed-b408-311ebffb6d2f",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}",
+            "flds": [
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "description": "",
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "Arial",
+                    "bqfmt": "",
+                    "bsize": 12,
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
